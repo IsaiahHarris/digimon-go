@@ -67,7 +67,7 @@ nav ul li {
   float: left;
   background-color: white;
   border-radius: 15px;
-  width: 39%;
+  width: 38%;
   height: 45%;
   position: relative;
   top: 100px;
@@ -76,20 +76,20 @@ nav ul li {
 }
 
 .f {
-  text-align: center;
+  text-align: relative;
   color: #487798;
   font-family: Silom;
 }
 
 hr {
   position: relative;
-  bottom: 7px;
+  bottom: 3px;
 }
 
 .e {
   float: left;
   width: 57%;
-  margin: 15px;
+  margin: 0px;
   padding: 10px;
 }
 
@@ -136,9 +136,30 @@ hr {
   border-radius: 15px;
   background-color: white;
   display: inline-block;
-  margin-top: 37px;
-  margin-left: 35px;
-  margin-right: 35px;
+  margin-top: 40px;
+  margin-left: 34px;
+  margin-right: 34px;
+  padding-left: 15px;
+  padding-right: 15px;
+  height: 230px;
+  border: 2px #999999 solid;
+  box-shadow: 1px 1px 2px gray;
+  width: 300px;
+}
+
+.second h2 {
+  color: #487798;
+  font-family: Silom;
+  text-align: center;
+}
+
+.third {
+  border-radius: 15px;
+  background-color: white;
+  display: inline-block;
+  margin-top: 40px;
+  margin-left: 34px;
+  margin-right: 34px;
   padding-left: 15px;
   padding-right: 15px;
   height: 230px;
