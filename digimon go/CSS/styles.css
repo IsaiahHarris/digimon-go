@@ -115,13 +115,12 @@ hr {
   border-radius: 15px;
   background-color: white;
   display: inline-block;
-  margin-top: 37px;
+  margin-top: 40px;
   margin-left: 75px;
   padding-left: 15px;
   padding-right: 15px;
   height: 230px;
   border: 2px #999999 solid;
-  box-shadow: 1px 1px 2px gray;
   float: left;
   width: 300px;
 }
@@ -143,7 +142,6 @@ hr {
   padding-right: 15px;
   height: 230px;
   border: 2px #999999 solid;
-  box-shadow: 1px 1px 2px gray;
   width: 300px;
 }
 
@@ -164,11 +162,10 @@ hr {
   padding-right: 15px;
   height: 230px;
   border: 2px #999999 solid;
-  box-shadow: 1px 1px 2px gray;
   width: 300px;
 }
 
-.second h2 {
+.third h2 {
   color: #487798;
   font-family: Silom;
   text-align: center;
