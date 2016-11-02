@@ -1,0 +1,30 @@
+  .block {
+      width: 25%;
+      height: 150px;
+      background-color: blue;
+      color: pink; 
+      margin: 30px;
+      padding: 20px;
+      display: inline-block;
+  }
+  h3 {
+    text-align: center;
+    font-size: 50px;
+  }
+
+}
+body {
+  background-color: black;
+}
+header {
+  font-size: 30px;
+  text-align: center;
+}
+@media only screen and(min-width : 850px) and (max-width: 1050px) {
+  body{
+    background-repeat: red;
+  } 
+  .block {
+    width: 10%;
+  }
+
